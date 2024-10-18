@@ -1,0 +1,14 @@
+# Node modules
+node_modules
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.pid.lock
+
+# Environment variables
+.env
