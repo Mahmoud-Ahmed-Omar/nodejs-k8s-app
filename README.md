@@ -22,22 +22,20 @@ To get started, ensure that you have the following installed:
 
 To begin, clone this repository to your local machine:
 
-````bash
+```bash
 git clone https://github.com/your-username/nodejs-k8s-app.git
 cd nodejs-k8s-app
-```
 
 2. Install the dependencies:
 
-   ```bash
    npm install
-````
+
 
 3. Run the application locally:
-   ```bash
+
    npm start
-   ```
+
 4. Run
-   ```bash
    kubectl apply -f deployment.yml
-   ```
+
+```
