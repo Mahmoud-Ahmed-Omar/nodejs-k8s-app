@@ -23,7 +23,7 @@ To get started, ensure that you have the following installed:
 To begin, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/nodejs-k8s-app.git
+git clone https://github.com/Mahmoud-Ahmed-Omar/nodejs-k8s-app
 cd nodejs-k8s-app
 
 2. Install the dependencies:
